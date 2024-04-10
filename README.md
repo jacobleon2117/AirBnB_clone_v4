@@ -126,6 +126,9 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
+### `/web_dynamic` directory contains flask application as well as dynmaic's :
+* `0-hbnb.py` -  Starts a Flask web application
+* `1-hbnb.py - 4-hbnb.py` - Builds off 0-hbnb.py
 
 ## Examples of use
 ```
